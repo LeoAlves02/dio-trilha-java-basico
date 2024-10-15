@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.taskmanager.task_manager.TaskManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.797 s -- in com.taskmanager.task_manager.TaskManagerApplicationTests
